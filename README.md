@@ -1,4 +1,4 @@
-# async.lua
+# cronos.async.lua
 Асинхронные запросы в lua с использованием библиотеки lanes
 
 #async.parallel
