@@ -14,8 +14,4 @@ function M:parallel(fns, cb)
 	end
 	cb(results)
 end
-
-function M:wait()
-	return self.lane:Results();
-end
 return M;
